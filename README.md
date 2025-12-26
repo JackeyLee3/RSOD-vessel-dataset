@@ -14,7 +14,7 @@ Link: https://pan.baidu.com/s/1TkD2ToBeuyS2LUZB99ThfA?pwd=2025 PW: 2025
 # Citation
 If you find our paper and code useful for your research, please consider giving a star ⭐ and citation 📝 :
 
-```python
+```bibtex
 @ARTICLE{11173937,
   author={Li, Borui and Huang, Baoxiang and Gao, He and Chen, Ge},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
