@@ -22,5 +22,4 @@ If you find our paper and code useful for your research, please consider giving 
   volume={18},
   number={},
   pages={25124-25138},
-  keywords={Artificial intelligence;Radar polarimetry;Object detection;Feature extraction;Accuracy;Synthetic aperture radar;Remote sensing;Oceans;Object recognition;Computational modeling;Automatic identification system (AIS);cascaded fine detection;deep learning;small object detection;synthetic aperture radar (SAR)},
   doi={10.1109/JSTARS.2025.3612035}}
