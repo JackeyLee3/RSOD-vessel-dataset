@@ -7,5 +7,5 @@ The RSOD vessel dataset was built based on the LS-SSDD-v1.0 dataset and Sentinel
 # BaiduDisk：RSOD vessel dataset
 Link: https://pan.baidu.com/s/1TkD2ToBeuyS2LUZB99ThfA?pwd=2025 PW: 2025
 
-<img width="1251" height="590" alt="image" src="https://github.com/user-attachments/assets/677c28b7-d2ed-4c1f-802d-54473a95dfe8" />
+<img width="851" height="390" alt="image" src="https://github.com/user-attachments/assets/677c28b7-d2ed-4c1f-802d-54473a95dfe8" />
 
