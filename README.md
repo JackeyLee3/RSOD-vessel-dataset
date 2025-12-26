@@ -14,7 +14,7 @@ Link: https://pan.baidu.com/s/1TkD2ToBeuyS2LUZB99ThfA?pwd=2025 PW: 2025
 <img width="305" height="302" alt="image" src="https://github.com/user-attachments/assets/5829a0c9-b0e2-4f69-ba3d-aa84f2058f99" />
 
 # Citation
-If you find our paper and code useful for your research, please consider giving a star ⭐ and citation 📝 :
+If you find our paper and dataset useful for your research, please consider giving a star ⭐ and citation 📝 :
 
 ```bibtex
 @ARTICLE{11173937,
