@@ -11,3 +11,15 @@ Link: https://pan.baidu.com/s/1TkD2ToBeuyS2LUZB99ThfA?pwd=2025 PW: 2025
 
 <img width="851" height="390" alt="image" src="https://github.com/user-attachments/assets/677c28b7-d2ed-4c1f-802d-54473a95dfe8" />
 
+# Citation
+If you find our paper and code useful for your research, please consider giving a star ⭐ and citation 📝 :
+
+@ARTICLE{11173937,
+  author={Li, Borui and Huang, Baoxiang and Gao, He and Chen, Ge},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Cascaded Fine Detection of Small Object in Large-Scale SAR Images Leveraging AIS Data}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={25124-25138},
+  doi={10.1109/JSTARS.2025.3612035}}
