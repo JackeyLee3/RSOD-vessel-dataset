@@ -11,6 +11,8 @@ Link: https://pan.baidu.com/s/1TkD2ToBeuyS2LUZB99ThfA?pwd=2025 PW: 2025
 
 <img width="651" height="390" alt="image" src="https://github.com/user-attachments/assets/677c28b7-d2ed-4c1f-802d-54473a95dfe8" />
 
+<img width="405" height="402" alt="image" src="https://github.com/user-attachments/assets/5829a0c9-b0e2-4f69-ba3d-aa84f2058f99" />
+
 # Citation
 If you find our paper and code useful for your research, please consider giving a star ⭐ and citation 📝 :
 
